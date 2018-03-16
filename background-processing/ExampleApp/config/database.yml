@@ -1,16 +1,20 @@
 default: &default
   adapter: postgresql
+  pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 5 } %>
+  host: localhost
+  user: tonio
+  password: 348260830
   pool: 5
   timeout: 5000
 
 development:
   <<: *default
-  database: abc_sandbox_development
+  database: abc_sandbox
 
 test:
   <<: *default
-  database: abc_sandbox_test
+  database: abc_sandbox
 
 production:
   <<: *default
-  database: abc_sandbox_production
+  database: abc_sandbox

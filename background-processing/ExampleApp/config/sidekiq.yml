@@ -1,0 +1,3 @@
+ReportWorker:
+  every: ['30s', first_in: '60s']
+  class: ReportWorker
