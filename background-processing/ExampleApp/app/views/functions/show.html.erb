@@ -1,0 +1,19 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Name:</strong>
+  <%= @function.name %>
+</p>
+
+<p>
+  <strong>Date entry:</strong>
+  <%= @function.date_entry %>
+</p>
+
+<p>
+  <strong>Status:</strong>
+  <%= @function.status %>
+</p>
+
+<%= link_to 'Edit', edit_function_path(@function) %> |
+<%= link_to 'Back', functions_path %>

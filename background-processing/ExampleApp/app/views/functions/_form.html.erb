@@ -1,0 +1,34 @@
+<%= form_for(function) do |f| %>
+  <% if function.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(function.errors.count, "error") %> prohibited this function from being saved:</h2>
+
+      <ul>
+      <% function.errors.full_messages.each do |message| %>
+        <li><%= message %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :name %>
+    <%= f.text_field :name %>
+  </div>
+
+  <div class="field">
+    <%= f.label :date_entry %>
+    <%= f.date_select :date_entry %>
+  </div>
+
+  <div class="field">
+<!--     <%= f.label :status %>
+    <%= f.check_box :status %>
+ -->
+ <%= f.select :status, Function.status.options, { include_blank: true } %>
+  </div>
+
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>
