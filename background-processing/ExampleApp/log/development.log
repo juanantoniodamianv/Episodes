@@ -11589,3 +11589,243 @@ Completed 200 OK in 115ms (Views: 27.4ms | ActiveRecord: 0.7ms)
   [1m[36mFunction Load (0.4ms)[0m  [1m[34mSELECT  "functions".* FROM "functions" ORDER BY "functions"."id" DESC LIMIT $1[0m  [["LIMIT", 1]]
   [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
   [1m[35m (0.2ms)[0m  [1m[31mROLLBACK[0m
+Started GET "/sidekiq/recurring-jobs" for 127.0.0.1 at 2018-03-20 09:13:46 -0300
+Started GET "/sidekiq/images/status.png" for 127.0.0.1 at 2018-03-20 09:13:46 -0300
+Started GET "/sidekiq/images/favicon.ico" for 127.0.0.1 at 2018-03-20 09:13:46 -0300
+Started GET "/sidekiq/recurring-jobs" for 127.0.0.1 at 2018-03-20 09:13:50 -0300
+Started GET "/sidekiq/images/status.png" for 127.0.0.1 at 2018-03-20 09:13:50 -0300
+Started GET "/sidekiq/images/favicon.ico" for 127.0.0.1 at 2018-03-20 09:13:50 -0300
+Started GET "/sidekiq/recurring-jobs" for 127.0.0.1 at 2018-03-20 09:13:52 -0300
+Started GET "/sidekiq/images/status.png" for 127.0.0.1 at 2018-03-20 09:13:52 -0300
+Started GET "/sidekiq/images/favicon.ico" for 127.0.0.1 at 2018-03-20 09:13:52 -0300
+Started GET "/sidekiq/recurring-jobs" for 127.0.0.1 at 2018-03-20 09:13:53 -0300
+Started GET "/sidekiq/images/status.png" for 127.0.0.1 at 2018-03-20 09:13:53 -0300
+Started GET "/sidekiq/images/favicon.ico" for 127.0.0.1 at 2018-03-20 09:13:53 -0300
+Started GET "/sidekiq/recurring-jobs" for 127.0.0.1 at 2018-03-20 09:13:53 -0300
+Started GET "/sidekiq/images/status.png" for 127.0.0.1 at 2018-03-20 09:13:53 -0300
+Started GET "/sidekiq/images/favicon.ico" for 127.0.0.1 at 2018-03-20 09:13:54 -0300
+Started GET "/sidekiq/recurring-jobs" for 127.0.0.1 at 2018-03-20 09:13:54 -0300
+Started GET "/sidekiq/images/status.png" for 127.0.0.1 at 2018-03-20 09:13:54 -0300
+Started GET "/sidekiq/images/favicon.ico" for 127.0.0.1 at 2018-03-20 09:13:54 -0300
+Started GET "/sidekiq/recurring-jobs" for 127.0.0.1 at 2018-03-20 09:13:59 -0300
+Started GET "/sidekiq/images/status.png" for 127.0.0.1 at 2018-03-20 09:14:00 -0300
+Started GET "/sidekiq/images/favicon.ico" for 127.0.0.1 at 2018-03-20 09:14:00 -0300
+Started GET "/sidekiq/recurring-jobs" for 127.0.0.1 at 2018-03-20 09:14:01 -0300
+Started GET "/sidekiq/images/status.png" for 127.0.0.1 at 2018-03-20 09:14:01 -0300
+Started GET "/sidekiq/images/favicon.ico" for 127.0.0.1 at 2018-03-20 09:14:01 -0300
+Started GET "/sidekiq/recurring-jobs" for 127.0.0.1 at 2018-03-20 09:14:02 -0300
+Started GET "/sidekiq/images/status.png" for 127.0.0.1 at 2018-03-20 09:14:02 -0300
+Started GET "/sidekiq/images/favicon.ico" for 127.0.0.1 at 2018-03-20 09:14:02 -0300
+Started GET "/sidekiq/recurring-jobs" for 127.0.0.1 at 2018-03-20 09:14:02 -0300
+Started GET "/sidekiq/images/status.png" for 127.0.0.1 at 2018-03-20 09:14:02 -0300
+Started GET "/sidekiq/images/favicon.ico" for 127.0.0.1 at 2018-03-20 09:14:02 -0300
+Started GET "/sidekiq/recurring-jobs" for 127.0.0.1 at 2018-03-20 09:14:04 -0300
+Started GET "/sidekiq/images/status.png" for 127.0.0.1 at 2018-03-20 09:14:04 -0300
+Started GET "/sidekiq/images/favicon.ico" for 127.0.0.1 at 2018-03-20 09:14:04 -0300
+Started GET "/sidekiq/recurring-jobs" for 127.0.0.1 at 2018-03-20 09:14:05 -0300
+Started GET "/sidekiq/images/status.png" for 127.0.0.1 at 2018-03-20 09:14:06 -0300
+Started GET "/sidekiq/images/favicon.ico" for 127.0.0.1 at 2018-03-20 09:14:06 -0300
+Started GET "/sidekiq/recurring-jobs" for 127.0.0.1 at 2018-03-20 09:14:07 -0300
+Started GET "/sidekiq/images/status.png" for 127.0.0.1 at 2018-03-20 09:14:07 -0300
+Started GET "/sidekiq/images/favicon.ico" for 127.0.0.1 at 2018-03-20 09:14:08 -0300
+Started GET "/sidekiq/recurring-jobs" for 127.0.0.1 at 2018-03-20 09:14:11 -0300
+Started GET "/sidekiq/images/status.png" for 127.0.0.1 at 2018-03-20 09:14:11 -0300
+Started GET "/sidekiq/images/favicon.ico" for 127.0.0.1 at 2018-03-20 09:14:11 -0300
+Started GET "/sidekiq/recurring-jobs" for 127.0.0.1 at 2018-03-20 09:14:12 -0300
+Started GET "/sidekiq/images/status.png" for 127.0.0.1 at 2018-03-20 09:14:12 -0300
+Started GET "/sidekiq/images/favicon.ico" for 127.0.0.1 at 2018-03-20 09:14:12 -0300
+Started GET "/sidekiq/recurring-jobs" for 127.0.0.1 at 2018-03-20 09:14:13 -0300
+Started GET "/sidekiq/images/status.png" for 127.0.0.1 at 2018-03-20 09:14:14 -0300
+Started GET "/sidekiq/images/favicon.ico" for 127.0.0.1 at 2018-03-20 09:14:14 -0300
+Started GET "/sidekiq/recurring-jobs" for 127.0.0.1 at 2018-03-20 09:14:14 -0300
+Started GET "/sidekiq/images/status.png" for 127.0.0.1 at 2018-03-20 09:14:15 -0300
+Started GET "/sidekiq/images/favicon.ico" for 127.0.0.1 at 2018-03-20 09:14:15 -0300
+Started GET "/sidekiq/recurring-jobs" for 127.0.0.1 at 2018-03-20 09:14:17 -0300
+Started GET "/sidekiq/images/status.png" for 127.0.0.1 at 2018-03-20 09:14:17 -0300
+Started GET "/sidekiq/images/favicon.ico" for 127.0.0.1 at 2018-03-20 09:14:17 -0300
+Started GET "/sidekiq/recurring-jobs" for 127.0.0.1 at 2018-03-20 09:14:19 -0300
+Started GET "/sidekiq/images/status.png" for 127.0.0.1 at 2018-03-20 09:14:19 -0300
+Started GET "/sidekiq/images/favicon.ico" for 127.0.0.1 at 2018-03-20 09:14:19 -0300
+Started GET "/sidekiq/recurring-jobs" for 127.0.0.1 at 2018-03-20 09:14:21 -0300
+Started GET "/sidekiq/images/status.png" for 127.0.0.1 at 2018-03-20 09:14:21 -0300
+Started GET "/sidekiq/images/favicon.ico" for 127.0.0.1 at 2018-03-20 09:14:21 -0300
+Started GET "/sidekiq/recurring-jobs" for 127.0.0.1 at 2018-03-20 09:14:24 -0300
+Started GET "/sidekiq/images/status.png" for 127.0.0.1 at 2018-03-20 09:14:24 -0300
+Started GET "/sidekiq/images/favicon.ico" for 127.0.0.1 at 2018-03-20 09:14:24 -0300
+Started GET "/sidekiq/recurring-jobs" for 127.0.0.1 at 2018-03-20 09:14:26 -0300
+Started GET "/sidekiq/images/status.png" for 127.0.0.1 at 2018-03-20 09:14:26 -0300
+Started GET "/sidekiq/images/favicon.ico" for 127.0.0.1 at 2018-03-20 09:14:26 -0300
+Started GET "/sidekiq/recurring-jobs" for 127.0.0.1 at 2018-03-20 09:14:27 -0300
+Started GET "/sidekiq/images/status.png" for 127.0.0.1 at 2018-03-20 09:14:27 -0300
+Started GET "/sidekiq/images/favicon.ico" for 127.0.0.1 at 2018-03-20 09:14:27 -0300
+Started GET "/sidekiq/recurring-jobs" for 127.0.0.1 at 2018-03-20 09:14:27 -0300
+Started GET "/sidekiq/images/status.png" for 127.0.0.1 at 2018-03-20 09:14:27 -0300
+Started GET "/sidekiq/images/favicon.ico" for 127.0.0.1 at 2018-03-20 09:14:27 -0300
+Started GET "/sidekiq/recurring-jobs" for 127.0.0.1 at 2018-03-20 09:14:29 -0300
+Started GET "/sidekiq/images/status.png" for 127.0.0.1 at 2018-03-20 09:14:29 -0300
+Started GET "/sidekiq/images/favicon.ico" for 127.0.0.1 at 2018-03-20 09:14:29 -0300
+Started GET "/sidekiq/recurring-jobs" for 127.0.0.1 at 2018-03-20 09:14:36 -0300
+Started GET "/sidekiq/images/status.png" for 127.0.0.1 at 2018-03-20 09:14:36 -0300
+Started GET "/sidekiq/images/favicon.ico" for 127.0.0.1 at 2018-03-20 09:14:37 -0300
+Started GET "/sidekiq/recurring-jobs" for 127.0.0.1 at 2018-03-20 09:16:13 -0300
+Started GET "/sidekiq/images/status.png" for 127.0.0.1 at 2018-03-20 09:16:13 -0300
+Started GET "/sidekiq/images/favicon.ico" for 127.0.0.1 at 2018-03-20 09:16:14 -0300
+Started GET "/sidekiq/recurring-jobs" for 127.0.0.1 at 2018-03-20 09:16:15 -0300
+Started GET "/sidekiq/images/status.png" for 127.0.0.1 at 2018-03-20 09:16:15 -0300
+Started GET "/sidekiq/images/favicon.ico" for 127.0.0.1 at 2018-03-20 09:16:15 -0300
+Started GET "/sidekiq/recurring-jobs" for 127.0.0.1 at 2018-03-20 09:16:29 -0300
+Started GET "/sidekiq/images/status.png" for 127.0.0.1 at 2018-03-20 09:16:29 -0300
+Started GET "/sidekiq/images/favicon.ico" for 127.0.0.1 at 2018-03-20 09:16:29 -0300
+Started GET "/sidekiq/recurring-jobs" for 127.0.0.1 at 2018-03-20 09:16:31 -0300
+Started GET "/sidekiq/images/status.png" for 127.0.0.1 at 2018-03-20 09:16:31 -0300
+Started GET "/sidekiq/images/favicon.ico" for 127.0.0.1 at 2018-03-20 09:16:31 -0300
+Started GET "/sidekiq/recurring-jobs" for 127.0.0.1 at 2018-03-20 09:16:32 -0300
+Started GET "/sidekiq/images/status.png" for 127.0.0.1 at 2018-03-20 09:16:32 -0300
+Started GET "/sidekiq/images/favicon.ico" for 127.0.0.1 at 2018-03-20 09:16:32 -0300
+Started GET "/sidekiq/recurring-jobs" for 127.0.0.1 at 2018-03-20 09:16:32 -0300
+Started GET "/sidekiq/images/status.png" for 127.0.0.1 at 2018-03-20 09:16:32 -0300
+Started GET "/sidekiq/images/favicon.ico" for 127.0.0.1 at 2018-03-20 09:16:32 -0300
+Started GET "/sidekiq/recurring-jobs" for 127.0.0.1 at 2018-03-20 09:16:33 -0300
+Started GET "/sidekiq/images/status.png" for 127.0.0.1 at 2018-03-20 09:16:33 -0300
+Started GET "/sidekiq/images/favicon.ico" for 127.0.0.1 at 2018-03-20 09:16:33 -0300
+Started GET "/sidekiq/recurring-jobs" for 127.0.0.1 at 2018-03-20 09:16:33 -0300
+Started GET "/sidekiq/images/status.png" for 127.0.0.1 at 2018-03-20 09:16:33 -0300
+Started GET "/sidekiq/images/favicon.ico" for 127.0.0.1 at 2018-03-20 09:16:34 -0300
+Started GET "/sidekiq/recurring-jobs" for 127.0.0.1 at 2018-03-20 09:16:59 -0300
+Started GET "/sidekiq/images/status.png" for 127.0.0.1 at 2018-03-20 09:17:00 -0300
+Started GET "/sidekiq/images/favicon.ico" for 127.0.0.1 at 2018-03-20 09:17:00 -0300
+Started GET "/sidekiq/recurring-jobs" for 127.0.0.1 at 2018-03-20 09:32:06 -0300
+  [1m[36mActiveRecord::SchemaMigration Load (0.5ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Started GET "/sidekiq/images/status.png" for 127.0.0.1 at 2018-03-20 09:32:06 -0300
+Started GET "/sidekiq/images/favicon.ico" for 127.0.0.1 at 2018-03-20 09:32:07 -0300
+Started GET "/functions/1/edit" for 127.0.0.1 at 2018-03-20 09:32:14 -0300
+Processing by FunctionsController#edit as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mFunction Load (0.4ms)[0m  [1m[34mSELECT  "functions".* FROM "functions" WHERE "functions"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  Rendering functions/edit.html.erb within layouts/application
+  Rendered functions/_form.html.erb (42.2ms)
+  Rendered functions/edit.html.erb within layouts/application (47.1ms)
+Completed 200 OK in 448ms (Views: 385.9ms | ActiveRecord: 4.3ms)
+
+
+Started GET "/functions" for 127.0.0.1 at 2018-03-20 09:32:16 -0300
+Processing by FunctionsController#index as HTML
+  Rendering functions/index.html.erb within layouts/application
+  [1m[36mFunction Load (0.5ms)[0m  [1m[34mSELECT "functions".* FROM "functions"[0m
+  Rendered functions/index.html.erb within layouts/application (5.5ms)
+Completed 200 OK in 61ms (Views: 58.1ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/functions/new" for 127.0.0.1 at 2018-03-20 09:32:16 -0300
+Processing by FunctionsController#new as HTML
+  Rendering functions/new.html.erb within layouts/application
+  Rendered functions/_form.html.erb (15.6ms)
+  Rendered functions/new.html.erb within layouts/application (18.5ms)
+Completed 200 OK in 60ms (Views: 56.8ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/functions" for 127.0.0.1 at 2018-03-20 09:32:27 -0300
+Processing by FunctionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"aoXhmc2UqcHsTW65U3RavhkIYQoN2VlPklOWaR2BinK96oNT8YWlRcj/o0BDbaGH1cp4SE8mU8rI2g+4vQhe0Q==", "function"=>{"name"=>"Gustavo", "date_entry(1i)"=>"2018", "date_entry(2i)"=>"3", "date_entry(3i)"=>"10", "status"=>"active"}, "commit"=>"Create Function"}
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35mSQL (0.6ms)[0m  [1m[32mINSERT INTO "functions" ("name", "date_entry", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["name", "Gustavo"], ["date_entry", "2018-03-10"], ["created_at", "2018-03-20 12:32:27.137786"], ["updated_at", "2018-03-20 12:32:27.137786"]]
+  [1m[35m (54.0ms)[0m  [1m[35mCOMMIT[0m
+Redirected to http://localhost:3000/functions/2
+Completed 302 Found in 64ms (ActiveRecord: 54.8ms)
+
+
+Started GET "/functions/2" for 127.0.0.1 at 2018-03-20 09:32:27 -0300
+Processing by FunctionsController#show as HTML
+  Parameters: {"id"=>"2"}
+  [1m[36mFunction Load (0.4ms)[0m  [1m[34mSELECT  "functions".* FROM "functions" WHERE "functions"."id" = $1 LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  Rendering functions/show.html.erb within layouts/application
+  Rendered functions/show.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 44ms (Views: 40.7ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/sidekiq/recurring-jobs" for 127.0.0.1 at 2018-03-20 09:32:39 -0300
+Started GET "/sidekiq/images/status.png" for 127.0.0.1 at 2018-03-20 09:32:40 -0300
+Started GET "/sidekiq/images/favicon.ico" for 127.0.0.1 at 2018-03-20 09:32:40 -0300
+Started GET "/sidekiq/recurring-jobs" for 127.0.0.1 at 2018-03-20 09:32:42 -0300
+Started GET "/sidekiq/images/status.png" for 127.0.0.1 at 2018-03-20 09:32:42 -0300
+Started GET "/sidekiq/recurring-jobs" for 127.0.0.1 at 2018-03-20 09:32:42 -0300
+Started GET "/sidekiq/images/favicon.ico" for 127.0.0.1 at 2018-03-20 09:32:42 -0300
+Started GET "/sidekiq/images/status.png" for 127.0.0.1 at 2018-03-20 09:32:43 -0300
+Started GET "/sidekiq/recurring-jobs" for 127.0.0.1 at 2018-03-20 09:32:43 -0300
+  [1m[36mActiveRecord::SchemaMigration Load (0.6ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Started GET "/sidekiq/images/favicon.ico" for 127.0.0.1 at 2018-03-20 09:32:43 -0300
+Started GET "/sidekiq/images/status.png" for 127.0.0.1 at 2018-03-20 09:32:43 -0300
+Started GET "/sidekiq/recurring-jobs" for 127.0.0.1 at 2018-03-20 09:32:43 -0300
+Started GET "/sidekiq/images/status.png" for 127.0.0.1 at 2018-03-20 09:32:43 -0300
+Started GET "/sidekiq/images/favicon.ico" for 127.0.0.1 at 2018-03-20 09:32:44 -0300
+Started GET "/sidekiq/recurring-jobs" for 127.0.0.1 at 2018-03-20 09:32:44 -0300
+Started GET "/sidekiq/images/status.png" for 127.0.0.1 at 2018-03-20 09:32:44 -0300
+Started GET "/sidekiq/images/favicon.ico" for 127.0.0.1 at 2018-03-20 09:32:44 -0300
+Started GET "/sidekiq/recurring-jobs" for 127.0.0.1 at 2018-03-20 09:32:45 -0300
+Started GET "/sidekiq/images/status.png" for 127.0.0.1 at 2018-03-20 09:32:45 -0300
+Started GET "/sidekiq/images/favicon.ico" for 127.0.0.1 at 2018-03-20 09:32:45 -0300
+Started GET "/sidekiq/recurring-jobs" for 127.0.0.1 at 2018-03-20 09:32:45 -0300
+Started GET "/sidekiq/images/status.png" for 127.0.0.1 at 2018-03-20 09:32:45 -0300
+Started GET "/sidekiq/recurring-jobs" for 127.0.0.1 at 2018-03-20 09:32:45 -0300
+Started GET "/sidekiq/images/status.png" for 127.0.0.1 at 2018-03-20 09:32:45 -0300
+Started GET "/sidekiq/images/favicon.ico" for 127.0.0.1 at 2018-03-20 09:32:45 -0300
+Started GET "/sidekiq/recurring-jobs" for 127.0.0.1 at 2018-03-20 09:32:51 -0300
+Started GET "/sidekiq/images/status.png" for 127.0.0.1 at 2018-03-20 09:32:51 -0300
+Started GET "/sidekiq/images/favicon.ico" for 127.0.0.1 at 2018-03-20 09:32:51 -0300
+Started GET "/sidekiq/recurring-jobs" for 127.0.0.1 at 2018-03-20 09:32:52 -0300
+Started GET "/sidekiq/images/status.png" for 127.0.0.1 at 2018-03-20 09:32:52 -0300
+Started GET "/sidekiq/images/favicon.ico" for 127.0.0.1 at 2018-03-20 09:32:52 -0300
+Started GET "/sidekiq/recurring-jobs" for 127.0.0.1 at 2018-03-20 09:33:06 -0300
+Started GET "/sidekiq/images/status.png" for 127.0.0.1 at 2018-03-20 09:33:06 -0300
+Started GET "/sidekiq/images/favicon.ico" for 127.0.0.1 at 2018-03-20 09:33:06 -0300
+  [1m[36mFunction Load (0.5ms)[0m  [1m[34mSELECT "functions".* FROM "functions"[0m
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35mSQL (0.5ms)[0m  [1m[33mUPDATE "functions" SET "updated_at" = $1, "status" = $2 WHERE "functions"."id" = $3[0m  [["updated_at", "2018-03-20 12:33:55.649835"], ["status", "inactive"], ["id", 2]]
+  [1m[35m (37.1ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mFunction Load (0.5ms)[0m  [1m[34mSELECT  "functions".* FROM "functions" ORDER BY "functions"."id" DESC LIMIT $1[0m  [["LIMIT", 1]]
+  [1m[36mFunction Load (0.3ms)[0m  [1m[34mSELECT "functions".* FROM "functions"[0m
+  [1m[36mFunction Load (0.7ms)[0m  [1m[34mSELECT "functions".* FROM "functions"[0m
+  [1m[36mFunction Load (0.5ms)[0m  [1m[34mSELECT "functions".* FROM "functions"[0m
+Started GET "/functions" for 127.0.0.1 at 2018-03-20 09:35:37 -0300
+Processing by FunctionsController#index as HTML
+  Rendering functions/index.html.erb within layouts/application
+  [1m[36mFunction Load (0.5ms)[0m  [1m[34mSELECT "functions".* FROM "functions"[0m
+  Rendered functions/index.html.erb within layouts/application (25.7ms)
+Completed 200 OK in 330ms (Views: 285.1ms | ActiveRecord: 4.8ms)
+
+
+Started GET "/functions/new" for 127.0.0.1 at 2018-03-20 09:35:38 -0300
+Processing by FunctionsController#new as HTML
+  Rendering functions/new.html.erb within layouts/application
+  Rendered functions/_form.html.erb (69.6ms)
+  Rendered functions/new.html.erb within layouts/application (72.1ms)
+Completed 200 OK in 119ms (Views: 115.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/functions" for 127.0.0.1 at 2018-03-20 09:35:44 -0300
+Processing by FunctionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"JLeA9ME7+GIT58OeXJSAFLKtauLgDaEsqdvmkrtBIR3z2OI+/Sr05jdVDmdMjXstfm9zoKLyq6nzUn9DG8j1vg==", "function"=>{"name"=>"Emanuel", "date_entry(1i)"=>"2018", "date_entry(2i)"=>"3", "date_entry(3i)"=>"15", "status"=>"active"}, "commit"=>"Create Function"}
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35mSQL (0.5ms)[0m  [1m[32mINSERT INTO "functions" ("name", "date_entry", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["name", "Emanuel"], ["date_entry", "2018-03-15"], ["created_at", "2018-03-20 12:35:44.756676"], ["updated_at", "2018-03-20 12:35:44.756676"]]
+  [1m[35m (66.5ms)[0m  [1m[35mCOMMIT[0m
+Redirected to http://localhost:3000/functions/3
+Completed 302 Found in 74ms (ActiveRecord: 67.2ms)
+
+
+Started GET "/functions/3" for 127.0.0.1 at 2018-03-20 09:35:44 -0300
+Processing by FunctionsController#show as HTML
+  Parameters: {"id"=>"3"}
+  [1m[36mFunction Load (0.5ms)[0m  [1m[34mSELECT  "functions".* FROM "functions" WHERE "functions"."id" = $1 LIMIT $2[0m  [["id", 3], ["LIMIT", 1]]
+  Rendering functions/show.html.erb within layouts/application
+  Rendered functions/show.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 54ms (Views: 44.8ms | ActiveRecord: 0.8ms)
+
+
+  [1m[36mFunction Load (0.3ms)[0m  [1m[34mSELECT "functions".* FROM "functions"[0m
+  [1m[35m (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35mSQL (0.4ms)[0m  [1m[33mUPDATE "functions" SET "updated_at" = $1, "status" = $2 WHERE "functions"."id" = $3[0m  [["updated_at", "2018-03-20 12:35:55.661838"], ["status", "inactive"], ["id", 3]]
+  [1m[35m (65.5ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mFunction Load (0.6ms)[0m  [1m[34mSELECT "functions".* FROM "functions"[0m
+  [1m[36mFunction Load (0.3ms)[0m  [1m[34mSELECT "functions".* FROM "functions"[0m
+  [1m[36mFunction Load (0.4ms)[0m  [1m[34mSELECT  "functions".* FROM "functions" ORDER BY "functions"."id" DESC LIMIT $1[0m  [["LIMIT", 1]]
+  [1m[36mFunction Load (0.4ms)[0m  [1m[34mSELECT "functions".* FROM "functions"[0m

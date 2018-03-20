@@ -5,8 +5,9 @@ class ReportWorker
 
 
   def perform
-  	sleep 15
-    puts "SIDEKIQ WORKER GENERATING A REPORT"
+  	#sleep 15
+    #puts "SIDEKIQ WORKER GENERATING A REPORT"
+    Function.check
   end
 
 end
